@@ -6,7 +6,7 @@
 
 <h4 align="center">The NEW Best Cod4 Playermodels/Weapons Mod for cinematics !</a>!</h4>
 <div align="center">
-  <a href="https://github.com/Politohh/polito_special_mod/releases""><img src="https://img.shields.io/github/downloads/Politohh/MWR_to_IW3/total"></a>
+  <a href="https://github.com/Politohh/polito_special_mod/releases""><img src="https://img.shields.io/github/downloads/Politohh/polito_special_mod/total"></a>
   <a href="https://paypal.me/politoggs"><img src="https://img.shields.io/badge/Donate-Paypal-orange?style=flat-square"></a>
 </div>
 <p align="center">
