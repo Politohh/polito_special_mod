@@ -22,6 +22,7 @@
 * Replaces promod weapons POV models/animations.
 * Replaces viewhands
 * Works with old demos.
+* Works with **[IWXMVM](https://codmvm.com/launcher)** 
 * High Quality.
 * Only for Promod maps with OpFor VS USMC. (use my other mods for different maps)
 
