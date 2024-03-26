@@ -23,6 +23,8 @@
 * Replaces viewhands
 * Works with old demos.
 * High Quality.
+* Only for Promod maps with OpFor VS USMC. (use my other mods for different maps)
+
 
  ## Pictures 
 
